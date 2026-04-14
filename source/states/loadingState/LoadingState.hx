@@ -160,8 +160,8 @@ class LoadingState extends MusicBeatState
 
 	var bar:FlxSprite;
 
-	var button:Rect;
-	var barHeight:Int = 10;
+	// var button:Rect;
+	// var barHeight:Int = 10;
 
 	var intendedPercent:Float = 0;
 	var curPercent(null, set):Float = 0;
